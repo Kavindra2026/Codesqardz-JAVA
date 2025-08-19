@@ -1,5 +1,9 @@
 //   extends interface
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f5ae0f51102ed49bbf37e51ea87a72b6f7fc04c2
 interface Gill {
   void add();
 }
