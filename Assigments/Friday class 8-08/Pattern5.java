@@ -1,0 +1,15 @@
+public class Pattern5 {
+  public static void main(String[] args) {
+    int i, j, x,n,sp;
+
+
+
+
+
+
+
+
+
+
+  }
+}

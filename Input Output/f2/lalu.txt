@@ -1,0 +1,1 @@
+Java Input/Output (I/O) refers to the mechanisms by which a Java program interacts with external data sources and destinations. This includes reading data from sources like the keyboard, files, or network connections, and writing data to destinations like the console, files, or network connections.
