@@ -79,8 +79,8 @@ public class mchat implements ActionListener {
     b2.addActionListener(this);
 
     try {
-      // s = new Socket("13.201.161.138", 8);
-       s=new Socket ("localhost", 8);
+      s = new Socket("13.201.161.138", 8);
+      //  s=new Socket ("localhost", 8);
       din = new DataInputStream(s.getInputStream());
       dout = new DataOutputStream(s.getOutputStream());
       my m = new my(din);
