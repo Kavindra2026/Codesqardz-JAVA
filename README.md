@@ -1,1 +1,1 @@
-This is Core Java with Manish Bhatia in Noida  
+This is Core Java Code with Manish Bhatia in Noida  
